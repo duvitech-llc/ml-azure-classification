@@ -1,4 +1,4 @@
-name: img-classification-part1-training
+name: img-classification
 dependencies:
 - pip:
   - azureml-sdk
